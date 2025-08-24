@@ -1,0 +1,6 @@
+name: "Example Starlark recommendation"
+description: |
+  "This is an example recommendation for Trailer.dev written in Starlark."
+runtime: starlark
+import: example.star
+type: workspace
