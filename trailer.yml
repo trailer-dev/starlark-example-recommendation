@@ -4,3 +4,5 @@ description: |
 runtime: starlark
 import: example.star
 type: workspace
+defaultConfiguration: |
+  {"message": "hello from starlark!"}
